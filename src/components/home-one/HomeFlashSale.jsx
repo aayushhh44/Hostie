@@ -10,10 +10,12 @@ function HomeFlashSale() {
                             <div className="col-lg-4">
                                 <div className="rts-flash-sell__title">
                                     <h3 data-sal="slide-down" data-sal-delay={300} data-sal-duration={800}>
-                                        Hosting Flash Sale
+                                    Bring your Australian 
+Business Online 
+
                                     </h3>
                                     <p data-sal="slide-down" data-sal-delay={400} data-sal-duration={800} >
-                                        For a limited time, launch your website with incredible savings.
+                                    Low Prices, Exceptional Service and Premium features.
                                     </p>
                                     <Link data-sal="slide-down" data-sal-delay={500} data-sal-duration={800} to="#" className="primary__btn white__bg" >
                                         See Details

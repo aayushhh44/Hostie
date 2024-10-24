@@ -34,7 +34,7 @@ function HomeFourBanner() {
                                     data-sal-delay={500}
                                     data-sal-duration={800}
                                 >
-                                    Your Perfect Domain Hosting Solution
+                                  Best Hosting Services in Australia 
                                 </h1>
                                 <p
                                     className="description"
@@ -42,8 +42,7 @@ function HomeFourBanner() {
                                     data-sal-delay={600}
                                     data-sal-duration={800}
                                 >
-                                    Welcome to our domain hosting platform your online journey begins.
-                                    We offer reliable and secure hosting.
+                                    High-performance hosting designed specifically for Aussie Business and high-traffic websites
                                 </p>
                                 <div
                                     className="feature"
@@ -52,12 +51,13 @@ function HomeFourBanner() {
                                     data-sal-duration={800}
                                 >
                                     <ul className="feature__list">
-                                        <li className="feature__item">24/7 Customer Support</li>
-                                        <li className="feature__item">Free Domain</li>
-                                        <li className="feature__item">Free Website Migration</li>
+                                        <li className="feature__item">100% Australian Owned</li>
+                                        <li className="feature__item">High Performance Servers</li>
+                                        <li className="feature__item">24/7 Support </li>
+                                        <li className="feature__item">Free Website Migrations </li>
                                     </ul>
                                 </div>
-                                <div
+                                {/* <div
                                     className="banner-buttons"
                                     data-sal="slide-down"
                                     data-sal-delay={800}
@@ -75,7 +75,7 @@ function HomeFourBanner() {
                                     >
                                         contact us <i className="fa-solid fa-chevron-right" />
                                     </Link>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

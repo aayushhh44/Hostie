@@ -9,7 +9,7 @@ function HomeWhyChoose() {
                         <div className="col-lg-5 order-change">
                             <div className="rts-whychoose__content">
                                 <h3 className="rts-whychoose__content--title" data-sal="slide-down" data-sal-delay={300} data-sal-duration={800}>
-                                    Why Choose Hostie Hosting for Your Hosting Needs
+                                Why choose Zouz Tech hosting for your hosting needs
                                 </h3>
                                 {/* single content*/}
                                 <div className="single" data-sal="slide-right" data-sal-delay={300} data-sal-duration={800}>

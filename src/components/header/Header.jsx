@@ -38,7 +38,7 @@ function Header() {
                                 <div className="rts-ht__email">
                                     <Link to="mailto:info@hostie.com">
                                         <img src="/assets/images/icon/email.svg" alt="" className="icon" />
-                                        contact@hostie.com
+                                        support@zouztech.com.au
                                     </Link>
                                 </div>
                                 <div className="rts-ht__promo">
@@ -60,7 +60,7 @@ function Header() {
                                                 alt=""
                                                 className="icon"
                                             />
-                                            Live Chat
+                                            +61 03 9000 8778
                                         </Link>
                                     </div>
                                     <div className="login-btn-has-dropdown">
@@ -115,12 +115,12 @@ function Header() {
                                 <Link to="/" className="site-logo">
                                     <img
                                         className="logo-white"
-                                        src="/assets/images/logo/logo-1.svg"
+                                        src="/assets/images/logo/logo.png"
                                         alt="Hostie"
                                     />
                                     <img
                                         className="logo-dark"
-                                        src="/assets/images/logo/logo-4.svg"
+                                        src="/assets/images/logo/logo.png"
                                         alt="Hostie"
                                     />
                                 </Link>
@@ -130,9 +130,9 @@ function Header() {
                                 <div className="hostie-menu">
                                     <ul className="list-unstyled hostie-desktop-menu">
                                         <li className="menu-item hostie-has-dropdown">
-                                            <Link to="#" className="hostie-dropdown-main-element">
+                                            {/* <Link to="#" className="hostie-dropdown-main-element">
                                                 Home
-                                            </Link>
+                                            </Link> */}
                                             <div className="has-homemenu">
                                                 <div className="row gx-5 row-cols-1 row-cols-md-2 row-cols-lg-4 row-cols-xl-5">
                                                     <div className="col homemenu">
@@ -270,277 +270,31 @@ function Header() {
                                                 </div>
                                             </div>
                                         </li>
-                                        <li className="menu-item hostie-has-dropdown mega-menu big">
+                                        <li className="menu-item hostie-has-dropdown">
                                             <Link to="#" className="hostie-dropdown-main-element">
-                                                Pages
+                                                Domain
                                             </Link>
-                                            <div className="rts-mega-menu">
-                                                <div className="wrapper">
-                                                    <div className="row g-0">
-                                                        <div className="col-lg-3">
-                                                            <ul className="mega-menu-item">
-                                                                <li>
-                                                                    <Link to="/about">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/01.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>About Hostie</p>
-                                                                            <span>Get know about Hostie </span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/pricing">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/03.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Pricing</p>
-                                                                            <span>Hostie provide pro price</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/affiliate">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/02.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Affiliate</p>
-                                                                            <span>provide detailed explan</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/sign-up">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/04.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Sign Up</p>
-                                                                            <span>Create content by you</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/blog">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/07.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Blog</p>
-                                                                            <span>Read Hostie artical</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div className="col-lg-3">
-                                                            <ul className="mega-menu-item">
-                                                                <li>
-                                                                    <Link to="/support">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/08.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Support</p>
-                                                                            <span>Provide detailed explan</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/pricing-two">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/03.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Pricing Package</p>
-                                                                            <span>Hostie provide pro price</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/business-mail">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/10.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Business Mail</p>
-                                                                            <span>Provide detailed explan</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/sign-in">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/09.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Sign In</p>
-                                                                            <span>Login Account</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/blog-list">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/07.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Blog List</p>
-                                                                            <span>Read Hostie artical</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div className="col-lg-3">
-                                                            <ul className="mega-menu-item">
-                                                                <li>
-                                                                    <Link to="/domain-checker">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/12.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Domain Checker</p>
-                                                                            <span>Provide detailed explain</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/pricing-three">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/03.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Pricing Comparision</p>
-                                                                            <span>Hostie provide pro price</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/partner">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/06.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Partner</p>
-                                                                            <span>Our partners</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/game-details">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/21.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Game Details</p>
-                                                                            <span>We will be soon</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/blog-grid">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/07.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Blog Grid</p>
-                                                                            <span>Read Hostie artical</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div className="col-lg-3">
-                                                            <ul className="mega-menu-item">
-                                                                <li>
-                                                                    <Link to="/contact">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/16.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Contact</p>
-                                                                            <span>Contact with Hostie</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/payment-method">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/20.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Payment Method</p>
-                                                                            <span>Payment Method</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/domain-transfer">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/17.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Domain Transfer</p>
-                                                                            <span>provide detailed explan</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/knowledgebase">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/11.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Knowledgebase</p>
-                                                                            <span>Read Hostie article</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link to="/blog/1">
-                                                                        <img
-                                                                            src="/assets/images/mega-menu/07.svg"
-                                                                            alt="icon"
-                                                                        />
-                                                                        <div className="info">
-                                                                            <p>Blog Details</p>
-                                                                            <span>Read Hostie artical</span>
-                                                                        </div>
-                                                                    </Link>
-                                                                </li>
-                                                                
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            <ul className="hostie-submenu list-unstyled menu-pages">
+                                                <li className="nav-item">
+                                                    <Link className="nav-link" to="/domain-checker">
+                                                        Domain Checker
+                                                    </Link>
+                                                </li>
+                                                <li className="nav-item">
+                                                    <Link className="nav-link" to="/domain-transfer">
+                                                        Register Domain
+                                                    </Link>
+                                                </li>
+                                                <li className="nav-item">
+                                                    <Link className="nav-link" to="/domain-registration">
+                                                        Transfer a Domain
+                                                    </Link>
+                                                </li>
+                                            </ul>
                                         </li>
                                         <li className="menu-item hostie-has-dropdown mega-menu">
                                             <Link to="#" className="hostie-dropdown-main-element">
-                                                Hosting
+                                                Website and Hosting
                                             </Link>
                                             <div className="rts-mega-menu">
                                                 <div className="wrapper">
@@ -606,7 +360,7 @@ function Header() {
                                                                             alt="icon"
                                                                         />
                                                                         <div className="info">
-                                                                            <p>Dedicated Hosting</p>
+                                                                            <p>DIY website builder </p>
                                                                             <span>Hosting that gives you tools</span>
                                                                         </div>
                                                                     </Link>
@@ -618,7 +372,20 @@ function Header() {
                                                                             alt="icon"
                                                                         />
                                                                         <div className="info">
-                                                                            <p>Cloud Hosting</p>
+                                                                            <p>SEO Services</p>
+                                                                            <span>Manage Cloud Hosting</span>
+                                                                        </div>
+                                                                    </Link>
+                                                                </li>
+
+                                                                <li>
+                                                                    <Link to="/cloud-hosting">
+                                                                        <img
+                                                                            src="/assets/images/mega-menu/29.svg"
+                                                                            alt="icon"
+                                                                        />
+                                                                        <div className="info">
+                                                                            <p>SSL Certificate</p>
                                                                             <span>Manage Cloud Hosting</span>
                                                                         </div>
                                                                     </Link>
@@ -631,27 +398,27 @@ function Header() {
                                         </li>
                                         <li className="menu-item hostie-has-dropdown">
                                             <Link to="#" className="hostie-dropdown-main-element">
-                                                Domain
+                                                Emails
                                             </Link>
                                             <ul className="hostie-submenu list-unstyled menu-pages">
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/domain-checker">
-                                                        Domain Checker
+                                                        Emails Hosting
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/domain-transfer">
-                                                        Domain Transfer
+                                                       Google Workspace
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/domain-registration">
-                                                        Domain Resigtration
+                                                        Microsoft 365
                                                     </Link>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item hostie-has-dropdown">
+                                        {/* <li className="menu-item hostie-has-dropdown">
                                             <Link to="#" className="hostie-dropdown-main-element">
                                                 Technology
                                             </Link>
@@ -667,7 +434,7 @@ function Header() {
                                                     </Link>
                                                 </li>
                                             </ul>
-                                        </li>
+                                        </li> */}
                                         <li className="menu-item hostie-has-dropdown">
                                             <Link to="#" className="hostie-dropdown-main-element">
                                                 Help Center
@@ -675,12 +442,12 @@ function Header() {
                                             <ul className="hostie-submenu list-unstyled menu-pages">
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/faq">
-                                                        FAQ
+                                                        Support
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/support">
-                                                        Support
+                                                    About Zouz Tech 
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
@@ -691,6 +458,12 @@ function Header() {
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/knowledgebase">
                                                         Knowledgebase
+                                                    </Link>
+                                                </li>
+
+                                                <li className="nav-item">
+                                                    <Link className="nav-link" to="/technology">
+                                                       Technology
                                                     </Link>
                                                 </li>
                                             </ul>

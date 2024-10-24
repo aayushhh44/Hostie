@@ -11,9 +11,9 @@ function HomeData({ className }) {
                                 Data Centers All Around the World
                             </h3>
                             <p className="rts-section__description" data-sal="slide-down" data-sal-delay={400} data-sal-duration={800} >
-                                Our web hosting, WordPress hosting, and cloud hosting plans offer
-                                server locations in: USA, Germany Egypt , India, Chaina, Brazil,
-                                Canada, Russia, Australia and South Africa.
+                            Premium Content Distribution and Data centres all around the world.
+	Australian-based Web Hosting, Email Hosting, Reseller Hosting, Dedicated Servers and CDN options with high resource limits. Perfect for all types of websites.
+
                             </p>
                         </div>
                     </div>

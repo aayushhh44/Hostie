@@ -17,18 +17,18 @@ function HomeBrand({ className }) {
                             <div className="rts-brand__wrapper">
                                 <div className="rts-brand__wrapper--text">
                                     <h5 data-sal="slide-down" data-sal-delay={300} data-sal-duration={800}>
-                                        Hosting solutions trusted by the owners of <span>2,800,000</span>{" "}
-                                        domains.
+                                    Hosting solutions trusted by <span>1000</span>
+                                    of aussie businesses. 
                                     </h5>
                                     <div className="rts-brand__wrapper--text-review" data-sal="slide-down" data-sal-delay={400} data-sal-duration={800}>
                                         <div className="review">
                                             <div className="star">
-                                                Excellent{" "}
+                                                Excellent
                                                 <img src="assets/images/brand/review-star.svg" alt="" />
                                             </div>
                                         </div>
                                         <div className="review__company">
-                                            954 reviews on{" "}
+                                            679 reviews on
                                             <img src="assets/images/brand/trust-pilot.svg" alt="" />
                                         </div>
                                     </div>
