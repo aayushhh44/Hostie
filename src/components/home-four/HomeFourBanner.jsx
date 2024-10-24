@@ -17,7 +17,7 @@ function HomeFourBanner() {
                 style={{ backgroundImage: "url(assets/images/banner/banner-hero-four.png)" }}
             >
                 <div className="container">
-                    <div className="row">
+                        <div className="row">
                         <div className="col-lg-8 col-xl-6 col-md-10">
                             <div
                                 className="rts-hero-four__content"

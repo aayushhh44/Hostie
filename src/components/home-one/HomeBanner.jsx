@@ -4,6 +4,7 @@ import sal from 'sal.js';
 import 'sal.js/dist/sal.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import HomeThreeBanner from '../home-three/HomeThreeBanner';
+import HomeFourBanner from '../home-four/HomeFourBanner';
 
 function HomeBanner() {
 	useEffect(() => {
@@ -75,7 +76,7 @@ function HomeBanner() {
 							</div>
 						</div>
 					</div> */}
-					<HomeThreeBanner/>
+					<HomeFourBanner/>
 				</div>
 			</section>
 		</>
