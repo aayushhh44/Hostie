@@ -17,8 +17,7 @@ function HomeBrand({ className }) {
                             <div className="rts-brand__wrapper">
                                 <div className="rts-brand__wrapper--text">
                                     <h5 data-sal="slide-down" data-sal-delay={300} data-sal-duration={800}>
-                                    Hosting solutions trusted by <span>1000</span>
-                                    of aussie businesses. 
+                                    Hosting solutions trusted by <span>1000 </span>of aussie businesses. 
                                     </h5>
                                     <div className="rts-brand__wrapper--text-review" data-sal="slide-down" data-sal-delay={400} data-sal-duration={800}>
                                         <div className="review">

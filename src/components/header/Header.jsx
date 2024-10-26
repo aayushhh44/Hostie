@@ -116,12 +116,12 @@ function Header() {
                                     <img
                                         className="logo-white"
                                         src="/assets/images/logo/logo.png"
-                                        alt="Hostie"
+                                        alt="Zouz Tech"
                                     />
                                     <img
                                         className="logo-dark"
-                                        src="/assets/images/logo/logo.png"
-                                        alt="Hostie"
+                                        src="/assets/images/logo/logodark.png"
+                                        alt="Zouz Tech"
                                     />
                                 </Link>
                             </div>
