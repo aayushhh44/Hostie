@@ -24,11 +24,11 @@ function HomeThreeFooter() {
                                             </span>
                                             +61 03 9000 8778
                                         </Link>
-                                        <Link style={{width:'100%', display:'flex', gap:'16px'}} to="mailto:support@zouztech.com.au">
-                                            <span> 
-                                                <i className="fa-light fa-envelope" />
+                                        <Link style={{display:'flex',}} to="mailto:support@zouztech.com.au">
+                                            <span>
+                                                <i style={{width:'100px', marginLeft:'8px'}} className="fa-light fa-envelope" />
                                             </span>
-                                            support@zouztech.com.au
+                                            <p>support@zouztech.com.au</p>
                                             
                                         </Link>
                                     </div>
