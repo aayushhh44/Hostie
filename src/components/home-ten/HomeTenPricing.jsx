@@ -138,7 +138,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
+                                                        title="Zouz Tech provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -151,7 +151,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
+                                                        title="Zouz Tech offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -164,7 +164,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
+                                                        title="Zouz Tech provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -177,7 +177,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
+                                                        title="Elevate your online presence with Zouz Tech, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -190,7 +190,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
+                                                        title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -204,7 +204,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
+                                                        title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -218,7 +218,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
+                                                        title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -233,19 +233,19 @@ function HomeTenPricing() {
                                                 <ul className="card-plan__feature--list more__feature" style={{ display: 'flex' }}>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 100 GB SSD Storage</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 99.9% Uptime Guarantee</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-xmark"></i> Web Application Firewall</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                 </ul>
                                             )}
@@ -317,7 +317,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
+                                                        title="Zouz Tech provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -330,7 +330,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
+                                                        title="Zouz Tech offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -343,7 +343,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
+                                                        title="Zouz Tech provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -356,7 +356,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
+                                                        title="Elevate your online presence with Zouz Tech, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -369,7 +369,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
+                                                        title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -383,7 +383,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
+                                                        title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -397,7 +397,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
+                                                        title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -412,19 +412,19 @@ function HomeTenPricing() {
                                                 <ul className="card-plan__feature--list more__feature" style={{ display: 'flex' }}>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 100 GB SSD Storage</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 99.9% Uptime Guarantee</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-xmark"></i> Web Application Firewall</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                 </ul>
                                             )}
@@ -497,7 +497,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
+                                                        title="Zouz Tech provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -510,7 +510,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
+                                                        title="Zouz Tech offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -523,7 +523,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
+                                                        title="Zouz Tech provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -536,7 +536,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
+                                                        title="Elevate your online presence with Zouz Tech, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -549,7 +549,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
+                                                        title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -563,7 +563,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
+                                                        title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -577,7 +577,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
+                                                        title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -592,19 +592,19 @@ function HomeTenPricing() {
                                                 <ul className="card-plan__feature--list more__feature" style={{ display: 'flex' }}>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 100 GB SSD Storage</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 99.9% Uptime Guarantee</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-xmark"></i> Web Application Firewall</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                 </ul>
                                             )}
@@ -676,7 +676,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
+                                                        title="Zouz Tech provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -689,7 +689,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
+                                                        title="Zouz Tech offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -702,7 +702,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
+                                                        title="Zouz Tech provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -715,7 +715,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
+                                                        title="Elevate your online presence with Zouz Tech, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -728,7 +728,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
+                                                        title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -742,7 +742,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
+                                                        title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -756,7 +756,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
+                                                        title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -771,19 +771,19 @@ function HomeTenPricing() {
                                                 <ul className="card-plan__feature--list more__feature" style={{ display: 'flex' }}>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 100 GB SSD Storage</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 99.9% Uptime Guarantee</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-xmark"></i> Web Application Firewall</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                 </ul>
                                             )}
@@ -862,7 +862,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
+                                                        title="Zouz Tech provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -875,7 +875,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
+                                                        title="Zouz Tech offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -888,7 +888,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
+                                                        title="Zouz Tech provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -901,7 +901,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
+                                                        title="Elevate your online presence with Zouz Tech, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -914,7 +914,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
+                                                        title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -928,7 +928,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
+                                                        title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -942,7 +942,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
+                                                        title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -957,19 +957,19 @@ function HomeTenPricing() {
                                                 <ul className="card-plan__feature--list more__feature" style={{ display: 'flex' }}>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 100 GB SSD Storage</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 99.9% Uptime Guarantee</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-xmark"></i> Web Application Firewall</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                 </ul>
                                             )}
@@ -1041,7 +1041,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
+                                                        title="Zouz Tech provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1054,7 +1054,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
+                                                        title="Zouz Tech offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1067,7 +1067,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
+                                                        title="Zouz Tech provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1080,7 +1080,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
+                                                        title="Elevate your online presence with Zouz Tech, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1093,7 +1093,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
+                                                        title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1107,7 +1107,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
+                                                        title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1121,7 +1121,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
+                                                        title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1136,19 +1136,19 @@ function HomeTenPricing() {
                                                 <ul className="card-plan__feature--list more__feature" style={{ display: 'flex' }}>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 100 GB SSD Storage</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 99.9% Uptime Guarantee</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-xmark"></i> Web Application Firewall</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                 </ul>
                                             )}
@@ -1221,7 +1221,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
+                                                        title="Zouz Tech provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1234,7 +1234,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
+                                                        title="Zouz Tech offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1247,7 +1247,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
+                                                        title="Zouz Tech provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1260,7 +1260,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
+                                                        title="Elevate your online presence with Zouz Tech, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1273,7 +1273,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
+                                                        title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1287,7 +1287,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
+                                                        title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1301,7 +1301,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
+                                                        title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1316,19 +1316,19 @@ function HomeTenPricing() {
                                                 <ul className="card-plan__feature--list more__feature" style={{ display: 'flex' }}>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 100 GB SSD Storage</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 99.9% Uptime Guarantee</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-xmark"></i> Web Application Firewall</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                 </ul>
                                             )}
@@ -1400,7 +1400,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
+                                                        title="Zouz Tech provides reliable 24/7 support for your hosting needs, ensuring assistance whenever you require help."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1413,7 +1413,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
+                                                        title="Zouz Tech offers complimentary email services, empowering your online communication with reliable and secure free email solutions."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1426,7 +1426,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
+                                                        title="Zouz Tech provides unlimited bandwidth, ensuring seamless data transfer for your website's optimal performance and user experience."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1439,7 +1439,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
+                                                        title="Elevate your online presence with Zouz Tech, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1452,7 +1452,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
+                                                        title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1466,7 +1466,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
+                                                        title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1480,7 +1480,7 @@ function HomeTenPricing() {
                                                         className="tolltip"
                                                         data-bs-toggle="tooltip"
                                                         data-bs-placement="bottom"
-                                                        title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
+                                                        title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."
                                                     >
                                                         <i className="fa-light fa-circle-question" />
                                                     </span>
@@ -1495,19 +1495,19 @@ function HomeTenPricing() {
                                                 <ul className="card-plan__feature--list more__feature" style={{ display: 'flex' }}>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 100 GB SSD Storage</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech offers generous hosting with 100GB SSD storage, providing ample space for your data and ensuring high-performance storage solutions."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Hostie's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Secure your website with Zouz Tech's unlimited free SSL certificates, ensuring encrypted and safe online transactions for your users."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-check"></i> 99.9% Uptime Guarantee</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Hostie guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zouz Tech guarantees 99% uptime, ensuring your website is consistently available and reliable for visitors around the clock."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                     <li className="card-plan__feature--list-item">
                                                         <span className="text"><i className="fa-regular fa-xmark"></i> Web Application Firewall</span>
-                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Hostie's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
+                                                        <span className="tooltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Enhance your website's security with Zouz Tech's Web Application Firewall, protecting against online threats and ensuring a safe online environment."><i className="fa-light fa-circle-question"></i></span>
                                                     </li>
                                                 </ul>
                                             )}

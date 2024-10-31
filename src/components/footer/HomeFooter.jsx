@@ -14,7 +14,7 @@ function HomeFooter() {
                                     aria-label="main page link"
                                     className="footer__logo"
                                 >
-                                    <img src="/assets/images/logo/footer__one__logo.svg" alt="" />
+                                    <img src="/assets/images/logo/imagedark.png" alt="" />
                                 </Link>
                                 <p className="brand-desc">
                                     We’re on a mission make life easier for web developers &amp; small

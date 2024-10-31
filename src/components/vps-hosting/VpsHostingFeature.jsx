@@ -17,7 +17,7 @@ function VpsHostingFeature() {
                                     Quick Look on Our VPS Features
                                 </h2>
                                 <p data-sal="slide-down" data-sal-delay={200} data-sal-duration={800}>
-                                    Own your virtual presence with the power of Hostie with 1.5 million
+                                    Own your virtual presence with the power of Zouz Tech with 1.5 million
                                     websites already under our care,
                                 </p>
                             </div>

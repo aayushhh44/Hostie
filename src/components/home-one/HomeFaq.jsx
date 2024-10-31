@@ -43,7 +43,7 @@ function HomeFaq() {
                                         <div id="item__two" className="accordion-collapse collapse show" aria-labelledby="two" data-bs-parent="#rts-accordion" >
                                             <div className="accordion-body">
                                                 Above all else, we strive to deliver outstanding customer
-                                                experiences. When you buy a domain name from hostie, we
+                                                experiences. When you buy a domain name from Zouz Tech, we
                                                 guarantee it will be handed over.
                                             </div>
                                         </div>

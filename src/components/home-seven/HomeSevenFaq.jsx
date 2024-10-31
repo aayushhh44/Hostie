@@ -49,7 +49,7 @@ function HomeSevenFaq() {
                                         >
                                             <div className="accordion-body">
                                                 Above all else, we strive to deliver outstanding customer
-                                                experiences. When you buy a domain name from hostie, we
+                                                experiences. When you buy a domain name from Zouz Tech, we
                                                 guarantee it will be handed over.
                                             </div>
                                         </div>
@@ -74,7 +74,7 @@ function HomeSevenFaq() {
                                         >
                                             <div className="accordion-body">
                                                 Above all else, we strive to deliver outstanding customer
-                                                experiences. When you buy a domain name from hostie, we
+                                                experiences. When you buy a domain name from Zouz Tech, we
                                                 guarantee it will be handed over.
                                             </div>
                                         </div>
@@ -99,7 +99,7 @@ function HomeSevenFaq() {
                                         >
                                             <div className="accordion-body">
                                                 Above all else, we strive to deliver outstanding customer
-                                                experiences. When you buy a domain name from hostie, we
+                                                experiences. When you buy a domain name from Zouz Tech, we
                                                 guarantee it will be handed over.
                                             </div>
                                         </div>
@@ -124,7 +124,7 @@ function HomeSevenFaq() {
                                         >
                                             <div className="accordion-body">
                                                 Above all else, we strive to deliver outstanding customer
-                                                experiences. When you buy a domain name from hostie, we
+                                                experiences. When you buy a domain name from Zouz Tech, we
                                                 guarantee it will be handed over.
                                             </div>
                                         </div>
@@ -149,7 +149,7 @@ function HomeSevenFaq() {
                                         >
                                             <div className="accordion-body">
                                                 Above all else, we strive to deliver outstanding customer
-                                                experiences. When you buy a domain name from hostie, we
+                                                experiences. When you buy a domain name from Zouz Tech, we
                                                 guarantee it will be handed over.
                                             </div>
                                         </div>

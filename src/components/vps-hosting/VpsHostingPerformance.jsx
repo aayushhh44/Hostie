@@ -19,7 +19,7 @@ function VpsHostingPerformance() {
                                     data-sal-delay={100}
                                     data-sal-duration={800}
                                 >
-                                    Expect Performance Get Hostie VPS
+                                    Expect Performance Get Zouz Tech VPS
                                 </h2>
                                 <p
                                     className="description mb-5"

@@ -14,7 +14,7 @@ function WordPressHostingFeatureTwo() {
                                     data-sal-delay={100}
                                     data-sal-duration={800}
                                 >
-                                    So why WordPress Hosting with Hostie?
+                                    So why WordPress Hosting with Zouz Tech?
                                 </h2>
                                 <p
                                     className="hosting-feature__desc"

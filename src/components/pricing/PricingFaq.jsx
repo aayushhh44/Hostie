@@ -38,7 +38,7 @@ function PricingFaq() {
                                                 data-bs-target="#item__one"
                                                 aria-controls="item__one"
                                             >
-                                                Why buy a domain name from hostie?
+                                                Why buy a domain name from Zouz Tech?
                                             </h4>
                                         </div>
                                         <div

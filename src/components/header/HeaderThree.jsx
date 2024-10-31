@@ -35,15 +35,15 @@ function HeaderThree() {
                             {/* FOR LOGO */}
                             <div className="rts-header__logo">
                                 <Link to="/" className="site-logo">
-                                    <img src="/assets/images/logo/logo-3.svg" alt="Hostie" />
+                                    <img src="/assets/images/logo/logo-3.svg" alt="Zouz Tech" />
                                 </Link>
                             </div>
                             {/* FOR NAVIGATION MENU */}
                             <nav className="rts-header__menu" id="mobile-menu">
-                                <div className="hostie-menu">
-                                    <ul className="list-unstyled hostie-desktop-menu">
-                                        <li className="menu-item hostie-has-dropdown">
-                                            <Link to="#" className="hostie-dropdown-main-element">
+                                <div className="Zouz Tech-menu">
+                                    <ul className="list-unstyled Zouz Tech-desktop-menu">
+                                        <li className="menu-item Zouz Tech-has-dropdown">
+                                            <Link to="#" className="Zouz Tech-dropdown-main-element">
                                                 Home
                                             </Link>
                                             <div className="has-homemenu">
@@ -183,8 +183,8 @@ function HeaderThree() {
                                                 </div>
                                             </div>
                                         </li>
-                                        <li className="menu-item hostie-has-dropdown mega-menu big">
-                                            <Link to="#" className="hostie-dropdown-main-element">
+                                        <li className="menu-item Zouz Tech-has-dropdown mega-menu big">
+                                            <Link to="#" className="Zouz Tech-dropdown-main-element">
                                                 Pages
                                             </Link>
                                             <div className="rts-mega-menu">
@@ -199,8 +199,8 @@ function HeaderThree() {
                                                                             alt="icon"
                                                                         />
                                                                         <div className="info">
-                                                                            <p>About Hostie</p>
-                                                                            <span>Get know about Hostie </span>
+                                                                            <p>About Zouz Tech</p>
+                                                                            <span>Get know about Zouz Tech </span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -212,7 +212,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Pricing</p>
-                                                                            <span>Hostie provide pro price</span>
+                                                                            <span>Zouz Tech provide pro price</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -248,7 +248,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Blog</p>
-                                                                            <span>Read Hostie artical</span>
+                                                                            <span>Read Zouz Tech artical</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -276,7 +276,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Pricing Package</p>
-                                                                            <span>Hostie provide pro price</span>
+                                                                            <span>Zouz Tech provide pro price</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -312,7 +312,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Blog List</p>
-                                                                            <span>Read Hostie artical</span>
+                                                                            <span>Read Zouz Tech artical</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -340,7 +340,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Pricing Comparision</p>
-                                                                            <span>Hostie provide pro price</span>
+                                                                            <span>Zouz Tech provide pro price</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -376,7 +376,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Blog Grid</p>
-                                                                            <span>Read Hostie artical</span>
+                                                                            <span>Read Zouz Tech artical</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -392,7 +392,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Contact</p>
-                                                                            <span>Contact with Hostie</span>
+                                                                            <span>Contact with Zouz Tech</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -428,7 +428,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Knowledgebase</p>
-                                                                            <span>Read Hostie article</span>
+                                                                            <span>Read Zouz Tech article</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -440,7 +440,7 @@ function HeaderThree() {
                                                                         />
                                                                         <div className="info">
                                                                             <p>Blog Details</p>
-                                                                            <span>Read Hostie artical</span>
+                                                                            <span>Read Zouz Tech artical</span>
                                                                         </div>
                                                                     </Link>
                                                                 </li>
@@ -451,8 +451,8 @@ function HeaderThree() {
                                                 </div>
                                             </div>
                                         </li>
-                                        <li className="menu-item hostie-has-dropdown mega-menu">
-                                            <Link to="#" className="hostie-dropdown-main-element">
+                                        <li className="menu-item Zouz Tech-has-dropdown mega-menu">
+                                            <Link to="#" className="Zouz Tech-dropdown-main-element">
                                                 Hosting
                                             </Link>
                                             <div className="rts-mega-menu">
@@ -542,11 +542,11 @@ function HeaderThree() {
                                                 </div>
                                             </div>
                                         </li>
-                                        <li className="menu-item hostie-has-dropdown">
-                                            <Link to="#" className="hostie-dropdown-main-element">
+                                        <li className="menu-item Zouz Tech-has-dropdown">
+                                            <Link to="#" className="Zouz Tech-dropdown-main-element">
                                                 Domain
                                             </Link>
-                                            <ul className="hostie-submenu list-unstyled menu-pages">
+                                            <ul className="Zouz Tech-submenu list-unstyled menu-pages">
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/domain-checker">
                                                         Domain Checker
@@ -564,11 +564,11 @@ function HeaderThree() {
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item hostie-has-dropdown">
-                                            <Link to="#" className="hostie-dropdown-main-element">
+                                        <li className="menu-item Zouz Tech-has-dropdown">
+                                            <Link to="#" className="Zouz Tech-dropdown-main-element">
                                                 Technology
                                             </Link>
-                                            <ul className="hostie-submenu list-unstyled menu-pages">
+                                            <ul className="Zouz Tech-submenu list-unstyled menu-pages">
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/technology">
                                                         Technology
@@ -581,11 +581,11 @@ function HeaderThree() {
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item hostie-has-dropdown">
-                                            <Link to="#" className="hostie-dropdown-main-element">
+                                        <li className="menu-item Zouz Tech-has-dropdown">
+                                            <Link to="#" className="Zouz Tech-dropdown-main-element">
                                                 Help Center
                                             </Link>
-                                            <ul className="hostie-submenu list-unstyled menu-pages">
+                                            <ul className="Zouz Tech-submenu list-unstyled menu-pages">
                                                 <li className="nav-item">
                                                     <Link className="nav-link" to="/faq">
                                                         FAQ

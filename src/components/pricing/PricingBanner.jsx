@@ -31,7 +31,7 @@ function PricingBanner() {
                                         data-sal-delay={200}
                                         data-sal-duration={800}
                                     >
-                                        Compare Hostie Dedicated Hosting Plans
+                                        Compare Zouz Tech Dedicated Hosting Plans
                                     </h1>
                                     <div
                                         className="feature mb-0"

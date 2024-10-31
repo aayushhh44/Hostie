@@ -54,13 +54,16 @@ function Header() {
                                 </div>
                                 <div className="rts-ht__links">
                                     <div className="live-chat-has-dropdown">
-                                        <Link to="/support" className="live__chat">
-                                            <img
+                                        <Link  to="/support" className="live__chat">
+                                            {/* <img
                                                 src="/assets/images/icon/forum.svg"
                                                 alt=""
                                                 className="icon"
-                                            />
-                                            +61 03 9000 8778
+                                            /> */}
+
+                                        <i className="fa-regular fa-phone" />
+                                                            
+                                             +61 03 9000 8778
                                         </Link>
                                     </div>
                                     <div className="login-btn-has-dropdown">
@@ -120,7 +123,7 @@ function Header() {
                                     />
                                     <img
                                         className="logo-dark"
-                                        src="/assets/images/logo/logodark.png"
+                                        src="/assets/images/logo/imagedark.png"
                                         alt="Zouz Tech"
                                     />
                                 </Link>
@@ -129,148 +132,8 @@ function Header() {
                             <nav className="rts-header__menu" id="mobile-menu">
                                 <div className="hostie-menu">
                                     <ul className="list-unstyled hostie-desktop-menu">
-                                        <li className="menu-item hostie-has-dropdown">
-                                            {/* <Link to="#" className="hostie-dropdown-main-element">
-                                                Home
-                                            </Link> */}
-                                            <div className="has-homemenu">
-                                                <div className="row gx-5 row-cols-1 row-cols-md-2 row-cols-lg-4 row-cols-xl-5">
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/">
-                                                                <img src="/assets/images/home/home-1.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/">Home 01</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-two">
-                                                                <img src="/assets/images/home/home-2.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-two">Home 02</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-three">
-                                                                <img src="/assets/images/home/home-3.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-three">Home 03</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-four">
-                                                                <img src="/assets/images/home/home-4.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-four">Home 04</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-five">
-                                                                <img src="/assets/images/home/home-5.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-five">Home 05</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-six">
-                                                                <img src="/assets/images/home/home-6.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-six">Home 06</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-seven">
-                                                                <img src="/assets/images/home/home-8.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-seven">Home 07</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-eight">
-                                                                <img src="/assets/images/home/home-7.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-eight">Home 08</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-nine">
-                                                                <img src="/assets/images/home/home-9.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-nine">Home 09</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-ten">
-                                                                <img src="/assets/images/home/home-10.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-ten">Home 10</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                    <div className="col homemenu">
-                                                        <div className="homemenu-thumb mb-15">
-                                                            <Link to="/home-eleven">
-                                                                <img src="/assets/images/home/home-11.png" alt="" />
-                                                            </Link>
-                                                        </div>
-                                                        <div className="homemenu-content text-center">
-                                                            <h4 className="homemenu-title">
-                                                                <Link to="/home-eleven">Home 11</Link>
-                                                            </h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li className="menu-item hostie-has-dropdown">
+                                       
+                                        {/* <li className="menu-item hostie-has-dropdown">
                                             <Link to="#" className="hostie-dropdown-main-element">
                                                 Domain
                                             </Link>
@@ -291,6 +154,112 @@ function Header() {
                                                     </Link>
                                                 </li>
                                             </ul>
+                                        </li> */}
+
+
+                                        <li className="menu-item hostie-has-dropdown mega-menu">
+                                            <Link to="#" className="hostie-dropdown-main-element">
+                                            Domain
+                                            </Link>
+                                            <div className="rts-mega-menu">
+                                                <div className="wrapper">
+                                                    <div className="row g-0">
+                                                        <div className="col-lg-12">
+                                                            <ul className="mega-menu-item">
+                                                                <li>
+                                                                    <Link to="/domain-checker">
+                                                                        <img
+                                                                            src="/assets/images/mega-menu/22.svg"
+                                                                            alt="icon"
+                                                                        />
+                                                                        <div className="info">
+                                                                            <p>Domain Checker</p>
+                                                                            <span>Manage Shared Hosting</span>
+                                                                        </div>
+                                                                    </Link>
+                                                                </li>
+                                                                <li>
+                                                                    <Link to="/domain-transfer">
+                                                                        <img
+                                                                            src="/assets/images/mega-menu/23.svg"
+                                                                            alt="icon"
+                                                                        />
+                                                                        <div className="info">
+                                                                            <p> Register Domain</p>
+                                                                            <span>WordPress Hosting speed</span>
+                                                                        </div>
+                                                                    </Link>
+                                                                </li>
+                                                                <li>
+                                                                    <Link to="/domain-registration">
+                                                                        <img
+                                                                            src="/assets/images/mega-menu/24.svg"
+                                                                            alt="icon"
+                                                                        />
+                                                                        <div className="info">
+                                                                            <p>Transfer a Domain</p>
+                                                                            <span>Dedicated resources</span>
+                                                                        </div>
+                                                                    </Link>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        {/* <div className="col-lg-6">
+                                                            <ul className="mega-menu-item">
+                                                                <li>
+                                                                    <Link to="/reseller-hosting">
+                                                                        <img
+                                                                            src="/assets/images/mega-menu/25.svg"
+                                                                            alt="icon"
+                                                                        />
+                                                                        <div className="info">
+                                                                            <p>Reseller Hosting</p>
+                                                                            <span>Earn additional revenue</span>
+                                                                        </div>
+                                                                    </Link>
+                                                                </li>
+                                                                <li>
+                                                                    <Link to="/dedicated-hosting">
+                                                                        <img
+                                                                            src="/assets/images/mega-menu/27.svg"
+                                                                            alt="icon"
+                                                                        />
+                                                                        <div className="info">
+                                                                            <p>DIY website builder </p>
+                                                                            <span>Hosting that gives you tools</span>
+                                                                        </div>
+                                                                    </Link>
+                                                                </li>
+                                                                <li>
+                                                                    <Link to="/cloud-hosting">
+                                                                        <img
+                                                                            src="/assets/images/mega-menu/29.svg"
+                                                                            alt="icon"
+                                                                        />
+                                                                        <div className="info">
+                                                                            <p>SEO Services</p>
+                                                                            <span>Manage Cloud Hosting</span>
+                                                                        </div>
+                                                                    </Link>
+                                                                </li>
+
+                                                                <li>
+                                                                    <Link to="/cloud-hosting">
+                                                                        <img
+                                                                            src="/assets/images/mega-menu/29.svg"
+                                                                            alt="icon"
+                                                                        />
+                                                                        <div className="info">
+                                                                            <p>SSL Certificate</p>
+                                                                            <span>Manage Cloud Hosting</span>
+                                                                        </div>
+                                                                    </Link>
+                                                                </li>
+                                                            </ul>
+                                                        </div> */}
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </li>
                                         <li className="menu-item hostie-has-dropdown mega-menu">
                                             <Link to="#" className="hostie-dropdown-main-element">

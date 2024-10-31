@@ -11,10 +11,10 @@ function HomeThreeFooter() {
                             <div className="col-lg-3 col-md-6 col-sm-6 rts-footer__widget--column">
                                 <div className="rts-footer__widget footer__widget w-230">
                                     <Link to="#" className="footer__logo">
-                                        <img src="/assets/images/logo/footer__two__logo.svg" alt="" />
+                                        <img src="/assets/images/logo/imagedark.png" alt="Zouz tech" />
                                     </Link>
                                     <p className="brand-desc address">
-                                        1811 Silverside Rd, Wilmington <br /> DE 19810, USA
+                                    Melbourne, Australia <br />
                                     </p>
                                     <div className="separator site-default-border" />
                                     <div className="contact-method">
@@ -22,13 +22,14 @@ function HomeThreeFooter() {
                                             <span>
                                                 <i className="fa-regular fa-phone" />
                                             </span>
-                                            +806 (000) 88 99
+                                            +61 03 9000 8778
                                         </Link>
-                                        <Link to="mailto:contact@reactheme.com">
-                                            <span>
+                                        <Link style={{width:'100%', display:'flex', gap:'16px'}} to="mailto:support@zouztech.com.au">
+                                            <span> 
                                                 <i className="fa-light fa-envelope" />
                                             </span>
-                                            info@hostie.com
+                                            support@zouztech.com.au
+                                            
                                         </Link>
                                     </div>
                                 </div>

@@ -46,7 +46,7 @@ function SharedHostingAdvanceFeature() {
                                     >
                                         <li className="feature__item">Unlimited MySQL Databases</li>
                                         <li className="feature__item">Reseller &amp; Sub Accounts</li>
-                                        <li className="feature__item">Hostie Control Panel</li>
+                                        <li className="feature__item">Zouz Tech Control Panel</li>
                                         <li className="feature__item">Secure Shell (SSH) Access</li>
                                         <li className="feature__item">Full Unix Shell</li>
                                         <li className="feature__item">IPv6 Support</li>
